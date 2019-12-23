@@ -1,5 +1,5 @@
 ---
-title: "Dummy Data"
+title: "MySQL Dump"
 date: 2019-12-23 00:00:00 -0400
 categories: jekyll update
 ---
