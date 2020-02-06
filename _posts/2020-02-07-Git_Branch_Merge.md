@@ -1,6 +1,6 @@
 ---
 title: "Git_Branch&Merge"
-date: 2020-02-06 00:00:00 -0400
+date: 2020-02-07 00:00:00 -0400
 categories: jekyll update
 ---
 
