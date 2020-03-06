@@ -1,6 +1,6 @@
 ---
 title: "Sync & Async"
-date: 2020-03-05 00:00:00 -0400
+date: 2020-03-06 00:00:00 -0400
 categories: jekyll update
 ---
 
