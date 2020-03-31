@@ -1,10 +1,10 @@
 ---
-title: "07_Node.js Function"
+title: "07_Java Script Function"
 date: 2020-03-05 00:00:00 -0400
 categories: jekyll update
 ---
 
-### 07_Node.js Function
+### 07_Java Script Function
 
 - Java Script - 함수의 기본 문법
 
