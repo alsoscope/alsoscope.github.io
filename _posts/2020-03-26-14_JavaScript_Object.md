@@ -1,12 +1,10 @@
 ---
-title: "14_Node.js 객체의 형식"
+title: "14_JavaScript 객체의 형식"
 date: 2020-03-26 00:00:00 -0400
 categories: jekyll update
 ---
 
-### 14_Node.js 객체의 형식
-
-- JavaScript - 객체의 형식
+### 14_JavaScript 객체의 형식
 
   - Object
   - 객체와 비슷한 형식인 Array
